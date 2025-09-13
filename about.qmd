@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Hi, I'm **Luke Ni**.
+
+This page is part of my Quarto site.
