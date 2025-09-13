@@ -5,7 +5,4 @@ title: "Welcome"
 
 This is my Quarto website for DSCI 521.
 
-- Repo: <https://github.com/USERNAME/USERNAME.github.io>
-- Site: <https://USERNAME.github.io>
-
-I’ll use this as a starting point for my data science presence.
+I am Luke. I am learning MDS at UBC and I like coding.
