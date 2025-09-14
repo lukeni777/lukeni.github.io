@@ -1,8 +1,0 @@
----
-title: "Welcome"
----
-
-
-This is my Quarto website for DSCI 521.
-
-I am Luke. I am learning MDS at UBC and I like coding.

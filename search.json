@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This is my Quarto website for DSCI 521.\nI am Luke. I am learning MDS at UBC and I like coding."
+    "text": "This is my Quarto website for DSCI 521.\n\nRepo: https://github.com/USERNAME/USERNAME.github.io\nSite: https://USERNAME.github.io\n\nI’ll use this as a starting point for my data science presence."
   }
 ]
