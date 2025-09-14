@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Luke Ni.\nThis page is part of my Quarto site."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is my Quarto website for DSCI 521.\nI am Luke. I am learning MDS at UBC and I like coding."
+  }
+]
